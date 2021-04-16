@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ewkonzo
+- 👀 I’m interested in C# , ML
+- 🌱 I’m currently learning nothing right now
+- 💞️ I’m looking to collaborate on anyting interensting
+- 📫 Reach me on konzo@konzo.co.tz
